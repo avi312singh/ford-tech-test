@@ -16,8 +16,6 @@ This repository contains two main components:
 
 ### Backend and Frontend 
 
-  **Clone Repository:**
-
    ```bash
    git clone https://github.com/avi312singh/ford-tech-test/tree/main
    cd ford-be
