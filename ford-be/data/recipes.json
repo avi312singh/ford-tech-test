@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Spaghetti Bolognese",
+    "cooking_time": 30,
+    "ingredients": [
+      "spaghetti",
+      "ground beef",
+      "tomato sauce",
+      "onions",
+      "garlic"
+    ],
+    "instructions": "Cook spaghetti. Brown ground beef with onions and garlic. Add tomato sauce. Serve hot.",
+    "reviews": [
+      {
+        "id": 1,
+        "rating": 4
+      },
+      {
+        "id": 2,
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Chicken Curry",
+    "cooking_time": 45,
+    "ingredients": ["chicken", "curry paste", "coconut milk", "vegetables"],
+    "instructions": "Cook chicken. Add curry paste and coconut milk. Simmer with vegetables. Serve with rice.",
+    "reviews": [
+      {
+        "id": 1,
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "rating": 4
+      }
+    ]
+  }
+]
