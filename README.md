@@ -19,7 +19,7 @@ This repository contains two main components:
   **Clone Repository:**
 
    ```bash
-   git clone [<frontend-repo-url>](https://github.com/avi312singh/ford-tech-test/tree/main)
+   git clone https://github.com/avi312singh/ford-tech-test/tree/main
    cd ford-be
    npm install
    npm run dev
